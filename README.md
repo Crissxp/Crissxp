@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Cristhian Paez</h1>
 <h3 align="center">A passionate full stack web developer from Argentina</h3>
-
+<img src="http://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristhian-paez-67b8b0215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristhian-paez-67b8b0215/" height="30" width="40" /></a>
